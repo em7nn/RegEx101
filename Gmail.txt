@@ -1,0 +1,3 @@
+[a-zA-Z0-9_.-]+@[a-zA-Z0-9_.-]+\.[a-zA-Z0-9_.-]+$
+
+Gmail: emin.usubov9@gmail.com
